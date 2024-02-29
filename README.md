@@ -50,5 +50,3 @@
 <img src="https://raw.githubusercontent.com/FrahHS/FrahHS/output/snake.svg" alt="Snake animation" />
 
 ###
-
-a { color: inherit; } 
