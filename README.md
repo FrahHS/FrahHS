@@ -1,15 +1,16 @@
-<h2 align="left">Hi 👋! My name is Francesco and I'm an automation engineer, from Italy</h2>
+<h2 align="left">Hi! My name is Francesco and I'm an automation engineer, from Italy.</h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrahHS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrahHS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrahHS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF5cnBneTV0aW1zdno3MWt6emU2MGQxbXRkemVrc2ZuYmpyZTJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVldzFlYjdwYXYyc3hjdzg1eDAzYnI5eGQyNGpiaG02bXFnZnBuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
